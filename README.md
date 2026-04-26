@@ -1,4 +1,4 @@
-<h1>Daiki Kobayashi（小林大輝）</h1>
+<h1>Daiki Kobayashi（小林大樹）</h1>
 
 <p>GNSS-IR / SAR / Soil Moisture Researcher</p>
 
